@@ -1,4 +1,5 @@
-# Credit for this goes to HTB Academy. I was stuck on this script -- had it about half working. Ended up getting help from HTB Academy and this is the final script that worked for me :) 
+# Credit for this goes to HTB Academy. I was stuck on this script -- had it about half working. 
+# Ended up getting help from HTB Academy and this is the final script that worked for me :) 
 
 import requests, sys, string
 
